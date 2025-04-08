@@ -1,9 +1,7 @@
 # Windows Defender Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This Windows Defender Lab explores the configuration and integration of Windows Defender & Firewall on any Windows system. The goal of this lab is to analyze, assess, and test the security effectiveness of Defender in detecting, preventing, and resppnding to various cyber threats against Windows System. Furthermore, this lab allows me to learn about Windows Firewall and how to configure the rules so it protects user systems against cyber attacks.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
