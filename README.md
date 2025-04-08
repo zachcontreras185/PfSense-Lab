@@ -14,4 +14,11 @@ This Windows Defender Lab explores the configuration and integration of Windows 
 - Windows Defender as a center for all machine security
 - Windows Defender Firewall as a network security tool
 
+### Screenshots
+![Screenshot 2025-04-08 151330](https://github.com/user-attachments/assets/5897effa-f804-4b81-b134-fa6558efe0c3)
+*Ref 1: Windows Defender Firewall being turned on while on a public network*
 
+
+
+![Screenshot 2025-04-08 151657](https://github.com/user-attachments/assets/82e794f4-7ff0-4ef4-94f1-06f171596a40)
+*Ref 2: Inbound traffic rule being set for Steam while connected to public networks*
