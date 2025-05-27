@@ -1,18 +1,18 @@
 # PfSense Lab
 
 ## Objective
-This Windows Defender Lab explores the configuration and integration of Windows Defender & Firewall on any Windows system. The goal of this lab is to analyze, assess, and test the security effectiveness of Defender in detecting, preventing, and resppnding to various cyber threats against Windows System. Furthermore, this lab allows me to learn about Windows Firewall and how to configure the rules so it protects user systems against cyber attacks.
+This PfSense Lab explores the configuration and integration of PfSense, an open source routing and firewall, on any system. The goal of this lab is to analyze, assess, and test the security effectiveness of PfSense in preventing and responding to various cyber threats against different Linux and Windows systems. I am also learning about various networking concepts and how to manage them, such as DHCP. Furthermore, this lab allows me to learn about firewalls and how to configure said firewall rules so it protects user systems against cyber attacks and prevent unwanted access into crucial systems.
 
 ### Skills Learned
-- Understadning how to configure Windows Defender to provide real-time protection
-- Understanding how to schedule scans of a machine to prevent malware from attacking
-- Setting up and configuring Windows Defender Firewall
+- Understadning how to configure PfSense to provide real-time protection
+- Configuring and managing DHCP servers and DNS forwarders/resolvers
+- Setting up and doing an initial configuration of PfSense
 - Creating inbound and outbound firewall rules to control network traffic and network intrusion
 - Responding to security alerts and taking the appropriate action to handle them
 
 ### Tools Used
-- Windows Defender as a center for all machine security
-- Windows Defender Firewall as a network security tool
+- VirtualBox as a way to virtualize the PfSense server
+- PfSense as a network security tool
 
 ### Screenshots
 ![VirtualBox_PfSense_25_05_2025_13_31_48](https://github.com/user-attachments/assets/91387c8d-a795-4e11-a944-02d1b15dc7d9)
